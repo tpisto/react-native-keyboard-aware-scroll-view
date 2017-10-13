@@ -36,8 +36,8 @@
   },
   "homepage": "https://github.com/APSL/react-native-keyboard-aware-scroll-view#readme",
   "dependencies": {
-    "prop-types": "^15.6.0",
-    "react-native": "^0.48.4"
+    "prop-types": "*",
+    "react-native": "*"
   },
   "devDependencies": {
     "@types/react-native": "^0.48.9",
