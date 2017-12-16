@@ -35,10 +35,6 @@
     "url": "https://github.com/APSL/react-native-keyboard-aware-scroll-view/issues"
   },
   "homepage": "https://github.com/APSL/react-native-keyboard-aware-scroll-view#readme",
-  "dependencies": {
-    "prop-types": "*",
-    "react-native": "*"
-  },
   "devDependencies": {
     "@types/react-native": "^0.48.9",
     "babel-eslint": "^8.0.1",
